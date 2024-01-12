@@ -2,7 +2,7 @@ Hell0 Everyone,
 Good Day!
 Here my first Power BI dashboard on Customer Churn Analysis
 
-Objective-
+Objective- 
 To get data and analyse data and get insight from that data
 
 Pre-requisites Undertaken-
